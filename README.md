@@ -5,20 +5,11 @@
 
 
 To run the project for the first time:
-1- Navigate to the cloned folder usuing console or open console from the clones folder,
-2- Now run command "yarn install" to install necessary dependencies,
-3- Once dependencies are installed run command "yarn start" to run the application.
-
-
-
-
-
-
-
-
-
-
-
+<ol>
+  <li>Navigate to the cloned folder usuing console or open console from the clones folder,</li>
+  <li>Now run command "yarn install" to install necessary dependencies,</li>
+  <li>Once dependencies are installed run command "yarn start" to run the application.</li>
+</ol>
 
 
 
