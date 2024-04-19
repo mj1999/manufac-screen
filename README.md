@@ -1,4 +1,29 @@
 # Getting Started with Create React App
+![flavanoids](https://github.com/mj1999/manufac-screen/assets/6629383/88cdb9b3-3ec8-4ba5-bca2-95a0c69aaeef)
+
+![gamma](https://github.com/mj1999/manufac-screen/assets/6629383/5c9b6cdf-be85-427c-8472-8ad7d11ef7bb)
+
+
+To run the project for the first time:
+1- Navigate to the cloned folder usuing console or open console from the clones folder,
+2- Now run command "yarn install" to install necessary dependencies,
+3- Once dependencies are installed run command "yarn start" to run the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
