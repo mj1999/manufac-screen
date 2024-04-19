@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mean Median Mode calculator
 ![flavanoids](https://github.com/mj1999/manufac-screen/assets/6629383/88cdb9b3-3ec8-4ba5-bca2-95a0c69aaeef)
 
 ![gamma](https://github.com/mj1999/manufac-screen/assets/6629383/5c9b6cdf-be85-427c-8472-8ad7d11ef7bb)
