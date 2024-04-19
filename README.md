@@ -1,7 +1,8 @@
 # Mean Median Mode calculator
-![flavanoids](https://github.com/mj1999/manufac-screen/assets/6629383/88cdb9b3-3ec8-4ba5-bca2-95a0c69aaeef)
 
-![gamma](https://github.com/mj1999/manufac-screen/assets/6629383/5c9b6cdf-be85-427c-8472-8ad7d11ef7bb)
+![flavanoids](https://github.com/mj1999/manufac-screen/assets/6629383/4a26c009-4299-4d49-90f3-9d00e0759bc1)
+
+![gamma](https://github.com/mj1999/manufac-screen/assets/6629383/14475d46-309b-4bfe-b24f-63896bfbed9b)
 
 
 To run the project for the first time:
